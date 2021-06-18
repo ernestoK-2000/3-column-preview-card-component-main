@@ -101,6 +101,7 @@ p{
     background-color: transparent;
     color: var(--transparent-white);
     border: solid hsl(0, 0%, 95%);
+    cursor: pointer;
 }
 
 .attribution{
@@ -113,6 +114,7 @@ p{
     padding: 15px;
     width: 100%;
     bottom: 0;
+    box-shadow: 0px 0px 3px gray;
 }
 
 @media (max-width: 974px){
