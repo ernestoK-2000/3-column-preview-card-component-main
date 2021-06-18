@@ -53,7 +53,7 @@ When the background section color was changed it seems like the rounded corners 
   overflow: hidden;
 }
 ```
-Appart of that the rest of the design was pretty straight forward with flexbox and basic CSS animation on hover for the button.
+Apart of that the rest of the design was pretty straight forward with flexbox and basic CSS animation on hover for the button.
 
 ### Continued development
 
